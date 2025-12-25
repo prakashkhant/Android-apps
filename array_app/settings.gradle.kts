@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "cals_app"
+rootProject.name = "array_app"
 include(":app")
  
